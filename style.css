@@ -1,0 +1,36 @@
+
+h1 {
+    text-align: center;
+    color: silver;
+    font-size: 52px;
+}
+
+p {
+    color:silver;
+    text-align: center;
+}
+
+.overskrift {
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.undertekst {
+    font-style: italic;
+    font-size: 20px;
+}
+
+.bilde {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+body {
+    background-color: #012634;
+    font-family: sans-serif;
+}
+
